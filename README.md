@@ -85,6 +85,13 @@ If you'd like to contribute or collaborate on these initiatives, open an issue o
 This model is provided under a custom license.  
 You may use, share, and apply this model for **internal organizational purposes**, **client engagements**, or **educational use**, **as long as it is not included in commercial software or SaaS offerings without permission**.
 
+ZenzizenSec Inc. encourages individuals and organizations to use the CTEMMM™ to strengthen their cybersecurity programs. You are
+welcome to use the model for internal assessments, planning, or client engagements, as long as it is not resold, embedded into
+commercial tools, or rebranded.
+
+The intent of the license is to support open use for improvement—not commercial exploitation. If you’re unsure whether your 
+intended use qualifies, just ask us: license@zenzizensec.com
+
 See the `LICENSE.md` file for full terms.
 
 ---
