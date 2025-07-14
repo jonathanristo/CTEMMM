@@ -23,8 +23,8 @@ CTEMMM provides a practical way to measure exposure management maturity across f
 | File/Folder | Description |
 |-------------|-------------|
 | `CTEMMM.xlsx` | The core CTEM Maturity Model spreadsheet, including domain scores, level definitions, and classification (Foundational, Enhanced, Strategic). |
-| `CTEM Maturity Model Companion Guide.docx` | Provides detailed descriptions for each domain, including its purpose, scope, and assessment considerations. |
-| `Examples and Use Cases for the CTEMMM Domains and Categories.docx` | Real-world scenarios and sample maturity indicators to help organizations assess and interpret their CTEM capabilities. |
+| `CTEM Maturity Model Companion Guide.pdf` | Provides detailed descriptions for each domain, including its purpose, scope, and assessment considerations. |
+| `Examples and Use Cases for the CTEMMM Domains and Categories.pdf` | Real-world scenarios and sample maturity indicators to help organizations assess and interpret their CTEM capabilities. |
 | `README.md` | This file — explains how to use the model and get involved. |
 
 ---
