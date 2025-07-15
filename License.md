@@ -1,9 +1,12 @@
 # How You Can Use This
 
-The CTEMMM™ is free to use for internal security assessments, maturity planning, and client advisory work—as long as you give credit and don’t resell or repackage it.
-You’re welcome to suggest improvements, translate it, or tailor it for your industry, as long as you don’t claim it’s official or use it in commercial tools or training without permission.
-We want this model to help the community, not become someone else’s product—if in doubt, just reach out: license@zenzizensec.com.
+The CTEMMM™ is free to use for internal security assessments, maturity planning, and client advisory work—as long as you give proper credit and don’t resell or repackage it.
 
+You’re welcome to suggest improvements, translate it, or tailor it for your industry, as long as you don’t claim it’s official or use it in commercial tools, courses, or platforms without permission.
+
+We want this model to help the community—not become someone else’s product. If in doubt, just reach out: **license@zenzizensec.com**
+
+---
 
 # License and Terms of Use
 
@@ -25,7 +28,7 @@ You are permitted to:
 
 ---
 
-##  Contributions and Derivative Works
+## Contributions and Derivative Works
 
 - You may create **modified versions or derivative works** of the CTEMMM **for non-commercial purposes**, such as:
   - Tailoring the model for a specific sector (e.g., government, healthcare),
@@ -49,7 +52,7 @@ The following uses are **not allowed** without prior written permission from Zen
 - **Selling**, **licensing**, or **charging** for access to the CTEMMM (in whole or in part), either directly or as part of another offering.
 - Using the CTEMMM in **certification programs**, **paid courses**, **instructor-led training**, or **academic curriculum packages** without permission.
 - Rebranding, renaming, or removing attribution from the model.
-- Using the CTEMMM or derivative works as **training data** for commercial AI or machine learning systems, including large language models.
+- Using the CTEMMM or any derivative version as **training data for commercial AI or machine learning models** (e.g., large language models or AI datasets).
 
 ---
 
@@ -66,7 +69,7 @@ When referencing or using the CTEMMM in materials or derivative works, include t
 
 For commercial licensing, broader distribution rights, or permission to use the CTEMMM in products, tools, courses, or platforms, please contact:
 
- **license@zenzizensec.com**
+📧 **license@zenzizensec.com**
 
 ---
 
