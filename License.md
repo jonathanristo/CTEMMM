@@ -1,4 +1,5 @@
 How You Can Use This
+
 The CTEMMM™ is free to use for internal security assessments, maturity planning, and client advisory work—as long as you give credit and don’t resell or repackage it.
 You’re welcome to suggest improvements, translate it, or tailor it for your industry, as long as you don’t claim it’s official or use it in commercial tools or training without permission.
 We want this model to help the community, not become someone else’s product—if in doubt, just reach out: license@zenzizensec.com.
