@@ -69,7 +69,7 @@ When referencing or using the CTEMMM in materials or derivative works, include t
 
 For commercial licensing, broader distribution rights, or permission to use the CTEMMM in products, tools, courses, or platforms, please contact:
 
-📧 **license@zenzizensec.com**
+ **license@zenzizensec.com**
 
 ---
 
