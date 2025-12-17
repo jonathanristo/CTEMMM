@@ -1,6 +1,8 @@
 # CTEMMM
 Continuous Threat Exposure Management Maturity Model (CTEMMM)
+
 Current version: v1.0.0 (2025-12-17)
+
 Latest stable release: v1.0.0
 
 
