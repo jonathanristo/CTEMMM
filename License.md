@@ -1,79 +1,86 @@
-# How You Can Use This
+# CTEMMM License
 
-The CTEMMM™ is free to use for internal security assessments, maturity planning, and client advisory work—as long as you give proper credit and don’t resell or repackage it.
+**Continuous Threat Exposure Management Maturity Model (CTEMMM)**  
+Copyright © 2025 ZenzizenSec Inc.  
+Authored by Jonathan Risto
 
-You’re welcome to suggest improvements, translate it, or tailor it for your industry, as long as you don’t claim it’s official or use it in commercial tools, courses, or platforms without permission.
-
-We want this model to help the community—not become someone else’s product. If in doubt, just reach out: **license@zenzizensec.com**
-
----
-
-# License and Terms of Use
-
-**Continuous Threat Exposure Management Maturity Model (CTEMMM™)**  
-Copyright © 2025 ZenzizenSec Inc. All rights reserved.
+All rights reserved.
 
 ---
 
-## Permitted Uses
+## Purpose
 
-You are permitted to:
+The Continuous Threat Exposure Management Maturity Model (CTEMMM) is an open, reference-based maturity model intended to support the understanding and improvement of Continuous Threat Exposure Management (CTEM) practices across organizations and industries.
 
-- **Use** the CTEMMM for internal organizational purposes, including assessments, maturity planning, benchmarking, reporting, and program improvement.
-- **Share** the CTEMMM with internal stakeholders or clients, provided it is unmodified and attribution to ZenzizenSec Inc. is maintained.
-- **Consultants and advisory professionals** may use the CTEMMM in client-facing engagements (e.g., assessments, workshops, and reports) as long as:
-  - The model is not embedded into proprietary platforms, dashboards, or hosted tools;
-  - The model is not resold, licensed, or monetized directly;
-  - Clear attribution is included.
+This license is designed to encourage broad, frictionless adoption and reference of CTEMMM while preventing rebranding, resale, or enclosure of the model itself.
 
 ---
 
-## Contributions and Derivative Works
+## Permitted Use (No Permission Required)
 
-- You may create **modified versions or derivative works** of the CTEMMM **for non-commercial purposes**, such as:
-  - Tailoring the model for a specific sector (e.g., government, healthcare),
-  - Translating the model into other languages,
-  - Proposing improvements or changes to support its evolution.
-- If you publish a modified version:
-  - You must include a clear notice describing what was changed,
-  - You must retain the original copyright and license notice,
-  - You must include attribution to ZenzizenSec Inc.,
-  - You may not claim the modified version is official or endorsed by ZenzizenSec Inc.
+CTEMMM may be used freely and without permission, in both commercial and non-commercial contexts, for the following purposes:
 
-We encourage feedback and improvements! You may propose changes via pull request on GitHub or by emailing **license@zenzizensec.com**. All contributions may be incorporated into future official versions of the CTEMMM with proper attribution.
+- Internal organizational assessments and maturity evaluations  
+- Advisory, consulting, and professional services  
+- Client reports, presentations, workshops, and recommendations  
+- Education, training, and instructional use (including paid courses)  
+- Public or private reference to CTEMMM, including lifecycle phases, domains, categories, and maturity levels  
+- Mapping or alignment to CTEMMM by vendors, consultants, or organizations  
+- Academic research, citation, and publication  
 
----
-
-## Prohibited Uses
-
-The following uses are **not allowed** without prior written permission from ZenzizenSec Inc:
-
-- Embedding the CTEMMM (in original or modified form) into any **commercial software product**, **SaaS platform**, **hosted portal**, or **consulting toolkit**.
-- **Selling**, **licensing**, or **charging** for access to the CTEMMM (in whole or in part), either directly or as part of another offering.
-- Using the CTEMMM in **certification programs**, **paid courses**, **instructor-led training**, or **academic curriculum packages** without permission.
-- Rebranding, renaming, or removing attribution from the model.
-- Using the CTEMMM or any derivative version as **training data for commercial AI or machine learning models** (e.g., large language models or AI datasets).
+No fee, registration, notification, or approval is required for these uses.
 
 ---
 
-## Attribution Requirement
+## Attribution
 
-When referencing or using the CTEMMM in materials or derivative works, include the following attribution:
+When CTEMMM is referenced, the name “CTEMMM” and the applicable version (for example, CTEMMM v1.0) must be retained.
 
-> “Based on the Continuous Threat Exposure Management Maturity Model (CTEMMM),  
-> Copyright © 2025 ZenzizenSec Inc. Used under non-commercial license.”
-
----
-
-## Licensing and Commercial Permissions
-
-For commercial licensing, broader distribution rights, or permission to use the CTEMMM in products, tools, courses, or platforms, please contact:
-
- **license@zenzizensec.com**
+Attribution may be simple and contextual (for example:  
+“Aligned to CTEMMM v1.0”) and does not require logos or prominent branding.
 
 ---
 
-## Trademark Notice
+## Restricted Use (Permission Required)
 
-**Continuous Threat Exposure Management Maturity Model (CTEMMM)™** is a trademark of ZenzizenSec Inc.  
-Use of this name, acronym, or associated brand elements is prohibited without written authorization.
+The following uses require explicit written permission from ZenzizenSec Inc.:
+
+- Rebranding, renaming, or presenting CTEMMM as a proprietary or differently named model  
+- Selling, licensing, or distributing CTEMMM as a standalone product or paid deliverable  
+- Embedding CTEMMM directly into commercial software products, SaaS platforms, or hosted tools  
+- Issuing certifications, accreditations, or claims of “official” CTEMMM assessment or endorsement  
+- Representing CTEMMM as owned, governed, or maintained by another entity  
+
+These restrictions exist to preserve the integrity and neutrality of the model, not to limit its use.
+
+---
+
+## No Endorsement
+
+Use of CTEMMM does not imply endorsement by Jonathan Risto or ZenzizenSec Inc.
+
+---
+
+## Stewardship and Stability
+
+CTEMMM is stewarded by ZenzizenSec Inc. Core lifecycle concepts and maturity intent are intended to remain stable across versions to support long-term adoption and reference.
+
+---
+
+## Plain-Language Summary (Non-Binding)
+
+CTEMMM is:
+
+- Free to use  
+- Free to assess against  
+- Free to reference  
+- Free to teach and consult with  
+
+Permission is only required to sell the model itself, rebrand it, embed it in commercial software, or claim official certification or endorsement.
+
+---
+
+## Contact
+
+For restricted-use licensing inquiries only:  
+license@zenzizensec.com
