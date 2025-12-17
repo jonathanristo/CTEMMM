@@ -1,106 +1,116 @@
-# CTEMMM
-Continuous Threat Exposure Management Maturity Model (CTEMMM)
+# CTEM Maturity Model (CTEMMM)
 
-Current version: v1.0.0 (2025-12-17)
+**Current version:** v1.0.0  
+**Release date:** 2025-12-17
 
-Latest stable release: v1.0.0
+The **Continuous Threat Exposure Management Maturity Model (CTEMMM)** is a reference-based maturity model designed to help organizations assess, understand, and improve their Continuous Threat Exposure Management (CTEM) capabilities.
 
-
-
-Welcome to the official GitHub repository for the **CTEM Maturity Model (CTEMMM)** — a structured framework to help organizations assess, develop, and optimize their Continuous Threat Exposure Management programs.
-
-CTEMMM provides a practical way to measure exposure management maturity across five key lifecycle phases: Scoping, Discovery, Prioritization, Validation, and Mobilization. The model was developed in response to the growing need for continuous, threat-informed, and risk-aligned exposure management programs that go beyond traditional vulnerability management.
-
+CTEMMM provides a structured way to evaluate CTEM maturity across lifecycle phases, domains, and categories, enabling consistent assessment, prioritization, and improvement planning across organizations and industries.
 
 ---
 
-## 📌 What Is CTEM?
+## Purpose
 
-**Continuous Threat Exposure Management (CTEM)** is a proactive security strategy that integrates discovery, prioritization, validation, and action across exposures in real time. CTEM helps organizations:
+CTEMMM is intended to be:
 
-- Continuously discover and assess risks across internal, external, and third-party environments
-- Align priorities to business impact, threat actor behavior, and attack paths
-- Validate exposure mitigation using red teaming, breach simulations, and control testing
-- Mobilize response workflows aligned to governance, remediation, and risk acceptance
+- A **shared reference model** for CTEM maturity
+- A **neutral assessment framework** usable across tools and vendors
+- A foundation for **maturity evaluation, gap analysis, and roadmap planning**
+- A common language for **security, risk, and leadership discussions**
 
----
-
-## 📁 Repository Contents
-
-| File/Folder | Description |
-|-------------|-------------|
-| `CTEMMM.xlsx` | The core CTEM Maturity Model spreadsheet, including domain scores, level definitions, and classification (Foundational, Enhanced, Strategic). |
-| `CTEM Maturity Model Companion Guide.pdf` | Provides detailed descriptions for each domain, including its purpose, scope, and assessment considerations. |
-| `Examples and Use Cases for the CTEMMM Domains and Categories.pdf` | Real-world scenarios and sample maturity indicators to help organizations assess and interpret their CTEM capabilities. |
-| `README.md` | This file — explains how to use the model and get involved. |
+The model is designed for use by enterprises, consultants, educators, researchers, and vendors.
 
 ---
 
-## 🧭 How to Use the CTEMMM
+## What CTEMMM Is (and Is Not)
 
-1. **Review the Domains and Levels**  
-   Explore the `CTEMMM.xlsx` to understand the maturity model structure across the five lifecycle phases and 40+ domains.
+**CTEMMM is:**
+- A maturity model for CTEM capabilities
+- Tool-agnostic and vendor-neutral
+- Suitable for internal assessments and external advisory use
+- Designed for long-term stability and reference
 
-2. **Use the Companion Guide**  
-   Refer to `CTEM Maturity Model Companion Guide.docx` for two-paragraph descriptions of each domain—ideal for stakeholder alignment and assessor training.
-
-3. **Map Your Maturity**  
-   Perform a self-assessment by scoring each domain from Level 1 to 5. Use the guidance and examples to calibrate interpretations.
-
-4. **Apply Use Cases**  
-   Use `Examples and Use Cases for the CTEMMM` to see what CTEM maturity looks like in real scenarios—useful for validation, training, and internal comms.
-
-5. **Prioritize by Classification**  
-   Focus on **Foundational** domains first, then build toward **Enhanced** and **Strategic** areas over time.
+**CTEMMM is not:**
+- A product or platform
+- A prescriptive implementation guide
+- A certification or compliance standard
+- A replacement for CTEM strategy or tooling
 
 ---
 
-## 🧠 Who Is This For?
+## Repository Contents
 
-- CISOs and cybersecurity leaders designing CTEM programs
-- Security operations and red team leads focused on exposure validation
-- Risk and compliance teams looking to integrate CTEM into governance cycles
-- Consultants and assessors supporting CTEM maturity assessments
-- CTEM tool vendors seeking a consistent framework for capability alignment
+This repository contains the canonical CTEMMM v1.0.0 artifacts:
 
----
+- **CTEMMM_v1.0.0.pdf**  
+  The core CTEM Maturity Model
 
-## ✅ Why Use This Model?
+- **CTEMMM_Companion_Guide_v1.0.0.pdf**  
+  Detailed explanations of domains, categories, and maturity intent
 
-- Aligns directly to the CTEM lifecycle (unlike legacy VM models)
-- Emphasizes **real-world threats**, **business alignment**, and **validation**
-- Helps drive cross-functional collaboration between Security, IT, Risk, and Business
-- Includes companion resources for easier adoption and communication
+- **CTEMMM_Examples_and_Use_Cases_v1.0.0.pdf**  
+  Practical examples and applied use cases
 
----
-
-## 📣 Contributing
-
-This project welcomes feedback, issue reports, and ideas from the community. Planned improvements include:
-
-- JSON/YAML structured version of the model
-- A self-assessment tool to assist with determining where your organization is currently. 
-- CTEM-MM interactive scoring templates
-- Translations and visual dashboards
-
-If you'd like to contribute or collaborate on these initiatives, open an issue or contact the maintainer directly.
+- **CTEMMM_v1.0.0.xlsx**  
+  Assessment and scoring worksheet
 
 ---
 
-## 📜 License
+## How to Use CTEMMM
 
-This model is provided under a custom license.  
-You may use, share, and apply this model for **internal organizational purposes**, **client engagements**, or **educational use**, **as long as it is not included in commercial software or SaaS offerings without permission**.
+CTEMMM may be used to:
 
-ZenzizenSec Inc. encourages individuals and organizations to use the CTEMMM™ to strengthen their cybersecurity programs. You are
-welcome to use the model for internal assessments, planning, or client engagements, as long as it is not resold, embedded into
-commercial tools, or rebranded.
+- Perform internal or external CTEM maturity assessments
+- Identify capability gaps and improvement priorities
+- Support CTEM program design and roadmap planning
+- Align stakeholders on CTEM scope and maturity expectations
+- Communicate CTEM maturity to leadership and governance bodies
 
-The intent of the license is to support open use for improvement—not commercial exploitation. If you’re unsure whether your 
-intended use qualifies, just ask us: license@zenzizensec.com
-
-See the `LICENSE.md` file for full terms.
+CTEMMM is designed to be adaptable to different organizational sizes, industries, and risk profiles.
 
 ---
 
-> CTEM is where security meets strategy. This model is the roadmap to get you there.
+## Licensing and Trademark
+
+CTEMMM is released under a reference-friendly license that allows free use, assessment, consulting, training, and academic reference.
+
+- See **LICENSE.md** for usage terms  
+- See **TRADEMARK.md** for trademark guidance
+
+Use of CTEMMM does not imply endorsement or certification.
+
+---
+
+## Versioning and Stability
+
+CTEMMM follows semantic-style versioning.
+
+- **v1.0.0** is the initial canonical release
+- Future versions will introduce only **meaningful structural or intent changes**
+- Editorial or wording refinements may occur without version increments
+
+A summary of changes is maintained in **CHANGELOG.md**.
+
+---
+
+## How to Cite
+
+When referencing CTEMMM, please use:
+
+> CTEM Maturity Model (CTEMMM) v1.0.0, ZenzizenSec Inc., 2025.
+
+---
+
+## Stewardship
+
+CTEMMM is stewarded by **ZenzizenSec Inc.**  
+Authored by **Jonathan Risto**.
+
+The model is intended to remain open, stable, and broadly usable while preserving its integrity and identity.
+
+---
+
+## Contact
+
+For licensing or trademark inquiries only:  
+**license@zenzizensec.com**
