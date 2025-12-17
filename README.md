@@ -1,9 +1,14 @@
 # CTEMMM
 Continuous Threat Exposure Management Maturity Model (CTEMMM)
+Current version: v1.0.0 (2025-12-17)
+Latest stable release: v1.0.0
+
+
 
 Welcome to the official GitHub repository for the **CTEM Maturity Model (CTEMMM)** — a structured framework to help organizations assess, develop, and optimize their Continuous Threat Exposure Management programs.
 
 CTEMMM provides a practical way to measure exposure management maturity across five key lifecycle phases: Scoping, Discovery, Prioritization, Validation, and Mobilization. The model was developed in response to the growing need for continuous, threat-informed, and risk-aligned exposure management programs that go beyond traditional vulnerability management.
+
 
 ---
 
