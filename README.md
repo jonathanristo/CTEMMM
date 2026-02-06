@@ -3,6 +3,14 @@
 **Current version:** v1.0.0  
 **Release date:** 2025-12-17
 
+---
+
+**Canonical documentation:** [https://zenzizensec.com/ctemmm](https://zenzizensec.com/ctemmm)  
+**Free assessment tool:** [https://zenzizensec.com/ctemmm](https://zenzizensec.com/ctemmm)  
+**Maintained by:** [ZenzizenSec Inc.](https://zenzizensec.com) | [Jonathan Risto](https://www.linkedin.com/in/jonathanristo)
+
+---
+
 The **Continuous Threat Exposure Management Maturity Model (CTEMMM)** is a reference-based maturity model designed to help organizations assess, understand, and improve their Continuous Threat Exposure Management (CTEM) capabilities.
 
 CTEMMM provides a structured way to evaluate CTEM maturity across lifecycle phases, domains, and categories, enabling consistent assessment, prioritization, and improvement planning across organizations and industries.
@@ -110,7 +118,10 @@ The model is intended to remain open, stable, and broadly usable while preservin
 
 ---
 
-## Contact
+## Resources
 
-For licensing or trademark inquiries only:  
-**license@zenzizensec.com**
+- **Website:** [https://zenzizensec.com/ctemmm](https://zenzizensec.com/ctemmm)
+- **Free Assessment:** [https://zenzizensec.com/ctemmm](https://zenzizensec.com/ctemmm)
+
+For licensing or trademark inquiries:  
+**[license@zenzizensec.com](mailto:license@zenzizensec.com)**
